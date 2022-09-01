@@ -1,0 +1,9 @@
+{
+	"name": "DF-COVID-UDEMY",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96606c01-10de-4c97-9496-742ab6abf487",
+		"tenantId": "170a3611-dbf2-42de-992e-490d15f7d22f"
+	}
+}
